@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Uladzislau Paskanau
+- 👋 Hi, I’m Uladzislau Paskanau from Minsk, Belarus
 - 👀 I’m interested in React, Typescript, Javascript
 - 🌱 I’m currently learning javascript, typescript, react, redux, html, css
 - 💞️ I’m looking to collaborate on ...
