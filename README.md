@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Uladzislau Paskanau from Minsk, Belarus
-- 👀 I’m interested in React, React Typescript, Javascript
+- 👀 I’m Frontend Developer
 - 🌱 I’m currently learning javascript, typescript, react, redux, html, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/uladzislau-paskanau-206a83201/
