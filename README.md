@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Uladzislau Paskanau from Minsk, Belarus
+- 👋 Hello, I’m Uladzislau Paskanau from Minsk, Belarus
 - 👀 I’m Frontend Developer
 - 🌱 I’m currently learning javascript, typescript, react, redux, html, css
 - 💞️ I’m looking to collaborate on ...
