@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript, typescript, react, redux, html, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/uladzislau-paskanau-206a83201/
+- This is my portfolio
 
 <!---
 Paskinho/Paskinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
