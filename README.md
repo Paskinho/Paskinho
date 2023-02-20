@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/uladzislau-paskanau-206a83201/
 - This is my portfolio
-
-[![GitHub Streak] (https://streak-stats.demolab.com/Paskinho=DenverCoder1)](https://git.io/streak-stats)
+- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Paskinho)](https://git.io/streak-stats)
 
 <!---
 Paskinho/Paskinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
