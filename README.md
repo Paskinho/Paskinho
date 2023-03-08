@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript, typescript, react, redux, html, css, node.js, git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/uladzislau-paskanau-206a83201/
-- My CV
+- My CV https://rabota.by/resume/35aa67e4ff0bc70a500039ed1f374e32323266
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Paskinho)](https://git.io/streak-stats)
 
