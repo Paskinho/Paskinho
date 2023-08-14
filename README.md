@@ -5,7 +5,6 @@
 - My portfolio https://paskinho.github.io/my_portfolio
 - My CV [https://rabota.by/resume/35aa67e4ff0bc70a500039ed1f374e32323266](https://rabota.by/resume/35aa67e4ff0bc70a500039ed1f374e32323266)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Paskinho)](https://git.io/streak-stats)
 
 <!---
