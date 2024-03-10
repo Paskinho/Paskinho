@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Uladzislau Paskanau from Minsk, Belarus
-- 👀 I’m Frontend Developer (React & Redux)
+- 👀 I’m Frontend Developer (React, Redux, Angular)
 - 🌱 I’m currently learning javascript, typescript, react, react-native, redux, redux-toolkut, angular, html, css, node.js, firebase, git, hooks, 
 - 📫 How to reach me https://www.linkedin.com/in/uladzislau-paskanau-206a83201/
 - My portfolio https://paskinho.github.io/my_portfolio
